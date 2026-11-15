@@ -2,7 +2,7 @@ NAGESH PATIL
 
 [HOME](#home)[ABOUT](#about)[EXPERIENCE](#experience)[SKILLS](#skills)[EDUCATION](#education)[CONTACT](#contact)
 
-Pune, India
+Nashik, India
 
 # Nagesh Patil
 
@@ -27,12 +27,6 @@ About
 ### Professional focus
 
 Client relationship management, query and complaint resolution, and working with internal teams to deliver results.
-
-↗
-
-### Career direction
-
-Key Account Manager role at Zomato: onboard restaurant partners, build lasting relationships and grow dining revenue in the city.
 
 ✦
 
